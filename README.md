@@ -16,4 +16,4 @@
 - Classified customer profiles as buyers and non-buyers for a holiday package
 - Implemented different classification algorithms like Random Forest, Decision Trees to track customer behavior
 - Obtained an accuracy of 87 % after applying hyperparameter tuning using Grid Search CV. 
-= Created different visualizations and graphs using seaborn to understand customers and generate business insights 
+- Created different visualizations and graphs using seaborn to understand customers and generate business insights 
