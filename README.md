@@ -10,3 +10,9 @@
 - Designed several visualizations from academic data with 15 features in Python to understand campus placement outcomes 
 - Performed data wrangling and exploratory data analysis with pandas, to derive insights from dataset 
 - Identified critical factors that played an important role in landing a job and higher salaries  
+
+# [Travel Package Prediction](https://github.com/choureymanas/Travel-Package-Prediction)                                                                                          ![](/images/download.jpg)                    
+- Classified customer profiles as buyers and non-buyers for a holiday package
+- Implemented different classification algorithms like Random Forest, Decision Trees to track customer behavior
+- Obtained an accuracy of 87 % after applying hyperparameter tuning using Grid Search CV. 
+= Created different visualizations and graphs using seaborn to understand customers and generate business insights 
