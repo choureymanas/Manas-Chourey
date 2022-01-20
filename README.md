@@ -1,5 +1,5 @@
 # [Fake Disaster Tweets Detection](https://github.com/choureymanas/Is-it-really-a-Disaster)
-![](/images/getty_844768902_299186.jpg)
+![](/images/Landslide_in_Cusco%2C_Peru_-_2018.jpg)
 
 - Classified 3000 disaster tweets as real or fake by training a Long Short-Term Memory Model (LSTM) on 7000 tweets with an accuracy of 90% 
 - Visualized textual data using seaborn library for better understanding the dataset and identifying noise 
