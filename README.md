@@ -1,3 +1,4 @@
+🌐Aspiring Data Scientist
 🏫 The University of Texas at Dallas <br>
 📞 4699273609 <br>
 📧 mxc200000@utdallas.edu 
