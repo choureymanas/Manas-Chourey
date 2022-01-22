@@ -1,3 +1,6 @@
+:school: The University of Texas at Dallas <br>
+:telephone_receiver: 4699273609 :e-mail: mxc200000@utdallas.edu 
+
 ### [Fake Disaster Tweets Detection](https://github.com/choureymanas/Is-it-really-a-Disaster)
 **Python | LSTM | Jupyter Notebook | Text Minning | NLP**
 
