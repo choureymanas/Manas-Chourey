@@ -1,10 +1,11 @@
-:school: The University of Texas at Dallas <br>
-:telephone_receiver: 4699273609 :e-mail: mxc200000@utdallas.edu 
+🏫 The University of Texas at Dallas <br>
+📞 4699273609 <br>
+📧 mxc200000@utdallas.edu 
 
 ### [Fake Disaster Tweets Detection](https://github.com/choureymanas/Is-it-really-a-Disaster)
 **Python | LSTM | Jupyter Notebook | Text Minning | NLP**
 
-![](/images/Landslide_in_Cusco%2C_Peru_-_2018.jpg)
+![Landslide_in_Cusco,_Peru_-_2018](https://user-images.githubusercontent.com/30063748/150627648-8756d0ec-fdea-4b60-a9a2-0a0b38062501.jpg)
 - Classified 3000 disaster tweets as real or fake by training a Long Short-Term Memory Model (LSTM) on 7000 tweets with an accuracy of 90% 
 - Visualized textual data using seaborn library for better understanding the dataset and identifying noise 
 - Incorporated Pandas, NumPy  libraries for text preprocessing and TensorFlow, Keras for modelling 
