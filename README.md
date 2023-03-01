@@ -1,6 +1,7 @@
 🌐Aspiring Data Scientist <br>
 🏫 The University of Texas at Dallas <br>
 📞 4699273609 <br>
+<a href="https://github.com/choureymanas/Manas-Chourey/raw/main/Manas_Chourey_FT_Resume-1.pdf">Resume</a><br> 
 📧 mxc200000@utdallas.edu 
 
 ### [Fake Disaster Tweets Detection](https://github.com/choureymanas/Is-it-really-a-Disaster)
