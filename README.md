@@ -4,7 +4,7 @@
 <a href="https://github.com/choureymanas/Manas-Chourey/raw/main/Manas_Chourey_FT_Resume-1.pdf">Resume</a><br> 
 📧 mxc200000@utdallas.edu 
 
-<h1> PROJECTS </h2>
+<h1> PROJECTS </h2><br>
 
 ### [Fake Disaster Tweets Detection](https://github.com/choureymanas/Is-it-really-a-Disaster)
 **Python | LSTM | Jupyter Notebook | Text Minning | NLP**
