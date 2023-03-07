@@ -4,7 +4,7 @@
 <a href="https://github.com/choureymanas/Manas-Chourey/raw/main/Manas_Chourey_FT_Resume-1.pdf">Resume</a><br> 
 📧 mxc200000@utdallas.edu 
 
-<h1> PROJECTS </h2><br>
+### PROJECTS
 
 ### [Fake Disaster Tweets Detection](https://github.com/choureymanas/Is-it-really-a-Disaster)
 **Python | LSTM | Jupyter Notebook | Text Minning | NLP**
@@ -40,7 +40,7 @@
 - Created Entity Relationship diagram and normalized data up to BCNF normal form 
 - Implemented the database using MySQL in Visual Studio Code to create Tables and relationships with valid primary and foreign keys  
 
-<h1>ACHIEVEMENTS</h2>
+### ACHIEVEMENTS
 
 ### [2022 Business Analytics Student Competition](https://www.linkedin.com/posts/manaschoureymsba_businessanalytics-datascience-machinelearning-activity-6905783507398860800-dypY?utm_source=share&utm_medium=member_desktop)
 
